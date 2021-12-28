@@ -1,0 +1,33 @@
+[
+  {
+    "documentId": "123",
+    "documentInfo": "v_2",
+    "storageLocation": "s3:amxzng:document-123-v2"
+  },
+  {
+    "documentId": "123",
+    "documentInfo": "v_1",
+    "storageLocation": "s3:amxzng:document-123-v1"
+  },
+  {
+    "documentId": "123",
+    "documentInfo": "v_0",
+    "storageLocation": "s3:amxzng:document-123-v0"
+  },
+  {
+    "documentId": "123",
+    "documentInfo": "metadata",
+    "keyValue": {"stored": "I'm a file!"}
+  },
+  {
+    "documentId": "123",
+    "documentInfo": "permissions",
+    "permissions": {"user_access": "RW"}
+  },
+  {
+    "documentId": "123",
+    "documentInfo": "parentFolderInfo",
+    "folderPath": "/root/secret",
+    "parentFolderId": 321
+  }
+]
